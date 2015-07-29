@@ -254,6 +254,33 @@ width:220px;
   background-size: 100% auto;
 }
 
+.pic5{
+  width:220px;
+  height:172px;
+  background: url(pic5.jpg) no-repeat;
+  background-size: 100% auto;
+}
+
+.pic6{
+  width:220px;
+  height:172px;
+  background: url(pic6.jpg) no-repeat;
+  background-size: 100% auto;
+}
+
+.pic7{
+  width:220px;
+  height:172px;
+  background: url(pic7.jpg) no-repeat;
+  background-size: 100% auto;
+}
+
+.pic8{
+  width:220px;
+  height:172px;
+  background: url(pic8.jpg) no-repeat;
+  background-size: 100% auto;
+}
 .maincontent4 {
   width: 924px;
   height: 500px;
@@ -308,4 +335,72 @@ width:170px;
       line-height: 1.4;
       font-weight: 300;
       font-size: 16px;
+}
+
+.maincontent5 {
+  width: 924px;
+  height: 400px;
+  background: #FFF;
+  background-size: 100% auto;
+  margin: 0px auto 0 auto;
+  text-align: center;
+  padding:50px ;
+}
+.email-form-container {
+
+  font-weight: normal;
+  font-style: normal;
+  font-size: 100%;
+  line-height: 1;
+  font-family: inherit;
+  color: #777;
+  text-align: center;
+  margin: 40px auto;
+}
+.inputform {
+  width :340;
+  margin: 0 auto;
+  display: inline-block;
+}
+.input {
+    text-align: center;
+    zoom: 1;
+    /*position: relative;*/
+    overflow: visible;
+    margin: 10px auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 100%;
+    line-height: 1;
+    font-family: inherit;
+    color: #777;
+}
+.outside {
+
+}
+.lineedit{
+  margin:10px;
+  height:41px;
+  text-align: left;
+}
+.button {
+
+border: none;
+width: 320px;
+height: 20px;
+font-family: 'open sans','helvetica',arial,sans-serif;
+display: inline-block;
+background: #f2c220;
+margin: 10px auto;
+font-weight: bold;
+text-decoration: none;
+font-size: 26px;
+text-shadow: 0 1px 1px rgba(0,0,0,0.2);
+border-radius: 1000px;
+cursor: pointer;
+box-shadow: 0 3px 0 #daae1d;
+color: #fff;
+padding: 12px 10px;
+font-size: 16px;
+
 }
